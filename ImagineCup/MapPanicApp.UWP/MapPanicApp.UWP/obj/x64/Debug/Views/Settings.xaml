@@ -1,0 +1,39 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MapPanicApp.UWP.Views.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MapPanicApp.UWP.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Template10.Controls"
+    mc:Ignorable="d">
+
+    <RelativePanel Background="#FF00305A">
+        <controls:PageHeader x:ConnectionId='2' x:Name="PageHeader" Text="Settings"                       
+                             RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True"
+                             RelativePanel.AlignTopWithPanel="True" />
+        <TextBlock x:ConnectionId='3' x:Name="textBlock" HorizontalAlignment="Center" Margin="0,12,0,0" TextWrapping="Wrap" Text="Layers"
+                   VerticalAlignment="Top" Foreground="White" FontSize="29.333" RelativePanel.AlignLeftWithPanel="True"
+                   RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="PageHeader" />
+        <StackPanel x:ConnectionId='4' x:Name="Buttons" Orientation="Horizontal" HorizontalAlignment="Center"
+                    RelativePanel.Below="textBlock" RelativePanel.AlignLeftWithPanel="True"
+                    RelativePanel.AlignRightWithPanel="True" Margin="0,60,0,0">
+            <Image x:ConnectionId='8' x:Name="image" Width="100" Source="ms-appx:///Assets/Skhema.png" Margin="4"                       />
+            <Image x:ConnectionId='9' x:Name="image_Copy" Width="100" Source="ms-appx:///Assets/Gibrid.png" Margin="4"                            />
+            <Image x:ConnectionId='10' x:Name="image_Copy1" Width="100" Source="ms-appx:///Assets/Sputnik.png" Margin="4"                             />
+        </StackPanel>
+        <TextBlock x:ConnectionId='5' x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,12" TextWrapping="Wrap" Text="Distanse"
+                   VerticalAlignment="Top" Foreground="White" FontSize="29.333" RelativePanel.AlignLeftWithPanel="True"
+                   RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="Buttons" />
+        <StackPanel Orientation="Horizontal" RelativePanel.Below="textBlock1" RelativePanel.AlignHorizontalCenterWithPanel="True">
+            <TextBox x:ConnectionId='6' x:Name="textBox" TextWrapping="Wrap" Text="200"
+                     Margin="12" RelativePanel.AlignLeftWithPanel="True"
+                     RelativePanel.Below="textBlock1" Width="192" Background="White" />
+            <TextBlock x:ConnectionId='7' x:Name="textBox2" Text="m." RelativePanel.RightOf="" RelativePanel.AlignRightWith=""
+                       RelativePanel.Below="" RelativePanel.AlignHorizontalCenterWith="" RelativePanel.AlignTopWith=""
+                       RelativePanel.AlignBottomWith="" VerticalAlignment="Center" Width="35" />
+
+        </StackPanel>
+    </RelativePanel>
+</Page>
+

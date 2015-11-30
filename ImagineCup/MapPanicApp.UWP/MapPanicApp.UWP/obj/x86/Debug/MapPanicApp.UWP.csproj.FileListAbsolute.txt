@@ -1,0 +1,1036 @@
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\ApplicationInsights.config
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\App.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\MainPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.xr.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.exe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.pdb
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\resources.pri
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\AppxManifest.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\ApplicationInsights.config
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\AppxManifest.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\StoreLogo.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\ClrCompression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\entrypoint\MapPanicApp.UWP.exe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Help.htm
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.exe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.pdb
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.xr.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.CSharp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Xaml.Interactions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Xaml.Interactivity.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Newtonsoft.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Properties\Default.rd.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\resources.pri
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.AppContext.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Immutable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Specialized.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Core.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Data.Common.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.Compression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.FileSystem.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Expressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Queryable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Requests.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Sockets.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ObjectModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.Networking.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.Uri.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Context.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Handles.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Security.Claims.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Security.Principal.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Timer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\HamburgerMenu.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\PageHeader.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\Resizer.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Properties\Template10Library.rd.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Styles\Mdl2.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Template10Library.xr.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.build.appxrecipe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Core.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.AppContext.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Data.Common.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.Compression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\ClrCompression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Requests.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Sockets.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ObjectModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.Networking.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.Uri.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Context.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Security.Claims.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Security.Principal.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Timer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Template10Library.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.csprojResolveAssemblyReference.cache
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.exe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.pdb
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\ResourceHandlingTask.state
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\priconfig.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\priconfig.xml.intermediate
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\layout.resfiles
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\layout.resfiles.intermediate
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\resources.resfiles
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\resources.resfiles.intermediate
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\pri.resfiles
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\pri.resfiles.intermediate
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\qualifiers.txt
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Template10Library.pri.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\ProjectArchitectures.txt
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.exe
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.pdb
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Xaml.Interactions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Xaml.Interactivity.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.CSharp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Core.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Windows.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.Serialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Newtonsoft.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.AppContext.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Immutable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Specialized.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Data.Common.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.Compression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\ClrCompression.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.FileSystem.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Expressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Queryable.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Requests.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Sockets.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ObjectModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.Networking.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.Uri.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Context.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Handles.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Security.Claims.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Security.Principal.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Timer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library.dll
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\ApplicationInsights.config
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Help.htm
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Properties\Default.rd.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\StoreLogo.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.xr.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Template10Library.xr.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\HamburgerMenu.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\PageHeader.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\Resizer.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Properties\Template10Library.rd.xml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Styles\Mdl2.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\resources.pri
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Styles\Custom.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Styles\Custom.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Styles\Custom.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\DetailPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\SettingsPage.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Shell.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Splash.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\GeoMapView.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\mappin.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\mappin.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Me.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Me.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Settings.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.g.i.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.g.cs
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.xaml
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.xbf
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Gibrid.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\map_2.bmp
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Skhema.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Sputnik.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Gibrid.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Skhema.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Sputnik.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\map_2.bmp
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-100.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-125.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-150.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-400.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-100.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-125.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-150.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-200.png
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-400.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\ApplicationInsights.config
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\App.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Styles\Custom.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\DetailPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\GeoMapView.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\MainPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Settings.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\SettingsPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Shell.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Views\Splash.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.xr.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.exe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.pdb
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\resources.pri
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\ApplicationInsights.config
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-100.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-125.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-150.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\BadgeLogo.scale-400.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Gibrid.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\mappin.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\map_2.bmp
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Me.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Skhema.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Sputnik.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\ClrCompression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\entrypoint\MapPanicApp.UWP.exe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Help.htm
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.exe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.pdb
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\MapPanicApp.UWP.xr.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Xaml.Interactions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Microsoft.Xaml.Interactivity.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Newtonsoft.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\resources.pri
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.AppContext.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Core.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Data.Common.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\HamburgerMenu.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\PageHeader.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Controls\Resizer.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Properties\Template10Library.rd.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Styles\Mdl2.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\Template10Library\Template10Library.xr.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\MapPanicApp.UWP.build.appxrecipe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Core.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\ClrCompression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\bin\x86\Debug\Template10Library.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.csprojResolveAssemblyReference.cache
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.g.i.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Styles\Custom.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Styles\Custom.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\App.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\DetailPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\GeoMapView.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\MainPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Settings.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\SettingsPage.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Shell.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Views\Splash.xbf
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.exe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MapPanicApp.UWP.pdb
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\layout.resfiles
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Template10Library.pri.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Xaml.Interactions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Xaml.Interactivity.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\ApplicationInsights.config
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-100.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-125.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-150.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\BadgeLogo.scale-400.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Gibrid.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\mappin.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Me.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Skhema.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Sputnik.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\StoreLogo.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Assets\map_2.bmp
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Help.htm
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.xr.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.exe
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\MapPanicApp.UWP.pdb
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Core.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Web.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Windows.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.Serialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Newtonsoft.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.AppContext.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Immutable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Data.Common.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.StackTrace.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\ClrCompression.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.Sockets.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Private.Uri.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Metadata.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Overlapped.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library.dll
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Template10Library.xr.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\HamburgerMenu.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\PageHeader.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Controls\Resizer.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Properties\Template10Library.rd.xml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\Template10Library\Styles\Mdl2.xaml
+C:\Users\wowinter13\Desktop\Резюме и все такое\ImagineCup\MapPanicApp.UWP\MapPanicApp.UWP\obj\x86\Debug\Core\resources.pri

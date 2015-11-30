@@ -1,0 +1,1 @@
+V:\HAKATON\MapPanic\MapPanicApp.UWP\MapPanicApp.UWP\MapPanicApp.UWP.csproj;arm
